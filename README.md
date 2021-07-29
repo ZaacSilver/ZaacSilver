@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaac Silvestre
 - 👀 I’m interested in HTML5,CSS3 , JavaScript e Mysql
-- 🌱 I’m currently learning  JavaScript e Mysql
+- 🌱 I’m currently learning  JavaScript And Mysql
 - 📫 How to reach me :https://www.linkedin.com/in/isaac-silvestre-148a6317a/
 
 <!---
