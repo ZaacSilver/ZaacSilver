@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isaac Silvestre
-- 👀 I’m interested in HTML5,CSS3 , JavaScript And Mysql
+- 👀 I’m interested in job's in Java, Sql, Spring and APIS.
 - 🌱 I’m currently learning  JavaScript And Mysql
 - 📫 How to reach me :www.linkedin.com/in/isaac-guadanholi-silvestre-148a6317a
 
