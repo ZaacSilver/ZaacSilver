@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaac Silvestre
 - 👀 I’m interested in job's in Java, Sql, Spring and APIS.
-- 🌱 I’m currently learning  JavaScript And Mysql
+- 🌱 I’m currently learning  Java, SpringBoot, CI/CD and Design patterns.
 - 📫 How to reach me :www.linkedin.com/in/isaac-guadanholi-silvestre-148a6317a
 
 
