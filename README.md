@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4292F7&width=435&lines=Isaac+Silvestre;Backend+Java+%F0%9F%A9%B6" alt="Typing SVG" />
   </a>
 </p>
